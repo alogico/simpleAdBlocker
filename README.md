@@ -1,4 +1,4 @@
-# **A simple AdBlocker**
+# **Simple AdBlocker v1.0**
 
 ## **What it does**
 
